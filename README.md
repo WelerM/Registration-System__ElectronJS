@@ -10,3 +10,4 @@ Perfect for small business/places where people's id has to be collected before t
 
 
 
+![reeee](https://user-images.githubusercontent.com/99507279/236468108-0b51604c-c307-4627-87c2-190a355cd08a.PNG)
