@@ -1,0 +1,26 @@
+{
+  "name": "registration system",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WelerM/Registration-system---Desktop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WelerM/Registration-system---Desktop/issues"
+  },
+  "homepage": "https://github.com/WelerM/Registration-system---Desktop#readme",
+  "dependencies": {
+    "electron": "^22.0.1",
+    "nedb": "^1.8.0",
+    "nodemon": "^2.0.20"
+  },
+  "devDependencies": {},
+  "description": ""
+}
